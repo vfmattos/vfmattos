@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Vitor Mattos 👋
 
+* Formado em Análise e desenvolvimento de Sistemas e graduando em Engenharia da Computação.
+* Atualmente, estou me aprofundando no universo de FullStack Development.
+
 <h3>Contato:</h3>
 
     
